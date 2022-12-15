@@ -1,0 +1,66 @@
+
+
+body {
+    font-family: 'Bitter', serif;
+    color: #596168;
+    background-color: rgb(254, 230, 246);
+}
+
+header {
+    text-align:center;
+    font-size: 25px;
+}
+
+
+
+ #mustsees {
+    border-style: double;
+    border-width: 7px;
+    border-color: white;
+
+  }
+
+    #Paris {
+        border-style: double;
+        border-width: 7px;
+        text-align: center;
+        font-size: 30px;
+
+        }
+
+  #Museums {
+    border-style: double;
+    border-width: 7px;
+    text-align: center;
+  }
+
+  #Nice {
+    border-style: double;
+    border-width: 7px;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #Beaches {
+    border-style: double;
+    border-width: 7px;
+    text-align: center;
+
+  }
+
+  #Bordeaux {
+    border-style: double;
+    border-width: 7px;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #Winerys {
+    border-style: double;
+    border-width: 7px;
+    text-align: center;
+
+  }
+
+
+  
